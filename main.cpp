@@ -5,7 +5,11 @@ using namespace std;
 
 float F(float a, float b, float c, float x)
 {
+<<<<<<< HEAD
      float R;                  //
+=======
+     float R;                 //rjd
+>>>>>>> Branch2
 	
 
      if ( (c < 0) && (x != 0) )

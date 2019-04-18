@@ -5,7 +5,7 @@ using namespace std;
 
 float F(float a, float b, float c, float x)
 {
-     float R;
+     float R;                  //
 	
 
      if ( (c < 0) && (x != 0) )
